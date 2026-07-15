@@ -158,8 +158,14 @@ with fifty.
 
 - If they have their own documents, have them drop one file into `raw/`
   (or paste its text).
-- If they brought nothing, use a file from `sample-documents/` and say
-  so plainly.
+- If they brought nothing, use a file from `sample_docs/` and say so
+  plainly. **First copy the chosen file into `raw/`** — and explain
+  why: everything shelved in the wiki must have a source in the
+  permanent collection; the practice shelf is not the collection. Mark
+  every wiki page created from sample material with a
+  `Source: sample document (practice)` line so it can be cleared
+  cleanly later. When the patron is ready to shelve real documents,
+  offer to remove the practice pages and their copied sources first.
 
 Process it in the open. Narrate your editorial choices as you work, in
 plain language: what became a page, what became a link, what you
@@ -247,5 +253,9 @@ open this repo, the Librarian on duty will already know the collection.
 - **The user wants to skip ahead:** let them. Offer the fast-track
   defaults, run an abbreviated apprentice test, and complete the
   ceremony. A librarian serves the patron, not the process.
+- **`sample_docs/` is the practice shelf**, not the collection. Never
+  shelve directly from it — copy into `raw/` first. Never edit its
+  contents. If the patron asks to be rid of it once real documents are
+  flowing, deleting the whole folder is fine; it will not be missed.
 - **Never** bulk-rewrite or delete anything in `raw/`. It is the
   permanent collection. The wiki is yours; the sources are theirs.
