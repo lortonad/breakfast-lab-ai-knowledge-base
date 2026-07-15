@@ -38,7 +38,7 @@ You need:
   don't have it, the Librarian will offer to install it for you
 - **3–5 documents** you'd like to organize (customer notes, strategy
   docs, meeting transcripts, research, SOPs). No documents? The
-  `sample-documents/` folder has you covered.
+  `sample_docs/` folder has you covered.
 
 Then:
 
@@ -86,7 +86,7 @@ tools/health.py      Finds broken links between wiki pages. The
 tools/youtube_transcript.py
                      Turns a YouTube URL into a transcript in raw/,
                      ready for shelving.
-sample-documents/    Three documents from a fictional Traverse City
+sample_docs/       Three documents from a fictional Traverse City
                      startup, for practice or demos. Delete when you
                      have the real thing.
 ```
